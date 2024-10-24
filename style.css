@@ -1,0 +1,74 @@
+.book {
+    background-color:hsl(30, 78%, 27%);
+}
+.read {
+background-image: url("https://i.pinimg.com/736x/2a/99/88/2a9988d6236ffbe633710a68aac30be7.jpg");
+}
+.goals {
+    color: goldenrod;
+}
+
+#leftbook {
+    float: left;
+}
+
+
+.stars {
+    color: goldenrod;
+}
+
+#rightbook {
+    float: right;
+}
+
+.Avatar {
+    background-image: url("https://external-preview.redd.it/ZJlOxFNmXA-VkXETWlvu1ccUzVBXhh1SLI_fHhwupkk.png?format=pjpg&auto=webp&s=78b391c7ecc01895269530906f462bc7ebd98a5e");
+}
+
+.water {
+    background-color:lightskyblue;
+}
+
+.earth {
+    background-color: darkolivegreen;
+}
+
+.air {
+    background-color: beige;
+}
+
+.fire {
+    background-color: crimson;
+}
+
+.blood {
+    background-color:red;
+}
+
+.metal {
+    background-color: darkgrey;
+}
+
+.lava {
+    background-color: orangered;
+}
+
+.lightning {
+    background-color: yellow;
+}
+
+.CW {
+    background-color: lightblue;
+}
+
+.red {
+    color: red;
+}
+
+.pink {
+    background-color: lightpink;
+}
+
+a {
+    color: hotpink;
+}
